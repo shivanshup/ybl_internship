@@ -1,2 +1,2 @@
-# ybl_intership
+# ybl_internship
 my_project
